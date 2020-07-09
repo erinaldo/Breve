@@ -1,0 +1,539 @@
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+c:\users\miguel\documents\visual studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Credito.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Documents\Visual Studio 2012\Projects\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Credito.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\carlosvera\Downloads\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Credito.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\MIGUEL\Desktop\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\carlosvera\Downloads\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\BreveEspacio con diseño reportes\Base de Datos\Nueva carpeta (4)\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+H:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+D:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+D:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+D:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+D:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+F:\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\Basededatos\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\Basededatos\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\Basededatos\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\Basededatos\Desktop\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\carlosvera\Downloads\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\alain\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\alain\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\alain\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\alain\Desktop\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\MIGUEL\Desktop\Programas\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+E:\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+E:\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+E:\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+E:\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.config
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\bin\Debug\ProyectoCafeBreveEspacio.pdb
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojResolveAssemblyReference.cache
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.Cache
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.cache
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\RdlCompile.compiled
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe.manifest
+C:\Users\Fer\Documents\UNIVERSIDAD\Ing Software\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.application
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csprojAssemblyReference.cache
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.ResolveComReference.cache
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Abonar.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Cuenta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Agregar_Producto.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Buscar_Cuenta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Cancelar_Venta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Clientes_con_Adeudos.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Corte_Caja.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Abono.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalle_Corte_Caja.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Cuenta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Pagos.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Detalles_Venta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.DetallesCredito.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Form1.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Compras.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Historial_Cortes.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Login.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Cuenta.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Modificar_Producto.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pago.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Pagos.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Properties.Resources.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientes.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteClientesAbonos.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteCortesCajacs.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.ReporteProductos.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Reportes.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.Venta_Efectivo.resources
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.GenerateResource.cache
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.exe
+C:\Users\ferna\Documents\FER ESCUELA\UNIVERSIDAD\ING DE SW\breve\ProyectoCafeBreveEspacio\ProyectoCafeBreveEspacio\obj\Debug\ProyectoCafeBreveEspacio.pdb
